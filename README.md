@@ -1,22 +1,34 @@
-Works:
+Features Overview
+Working:
+
 Leaderboards
-Favorite Brawler(?)
+Favorite Brawler (?)
 Set creator response
 Set skin in the lobby
-Set Brawler in the Lobby
-Claim?????????? (does not work due to OHD)
-DO NOT work:
+Set Brawler in the lobby
+Claim (currently not functioning due to OHD)
+Not Working:
+
 Slaughter
-Assertion of milestones (trop road, bp, catalog and others)
-Clubs (need to be repaired)
-and other others
+Milestone assertions (trophy road, Brawl Pass, catalog, etc.)
+Clubs (needs to be repaired)
+Other miscellaneous issues
 How to Play
-Server
-Download and extract the zip file
-Open the terminal (termius, putty or other) on your PC or phone and go to the server directory.
-Install TweetNaCl if you don't have it (go to the -> Heart -> Crypto server directory and type python setup.py install --user)
-Type python3 core.py and you're done, follow the client's instructions.
-Android client
-Apk - https://drive.google.com/file/d/1-Tab9GHhjOrlSvsn7Ab-t4RMLdPcuaTi/view?usp=drivesdk
-Change IP to liblrbs.script.so
-Ready!
+Server Setup:
+
+Download and extract the zip file.
+Open a terminal (e.g., Termius, PuTTY, or another terminal application) on your PC or phone and navigate to the server directory.
+Install TweetNaCl if you haven't already. Navigate to the Heart > Crypto server directory and run:
+bash
+Code kopieren
+python setup.py install --user
+Start the server by typing:
+bash
+Code kopieren
+python3 core.py
+Follow the client's instructions to complete the setup.
+Android Client:
+
+Download the APK from the following link: APK Download.
+Change the IP to liblrbs.script.so.
+You're all set!
