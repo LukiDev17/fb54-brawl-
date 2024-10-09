@@ -29,6 +29,6 @@ python3 core.py
 Follow the client's instructions to complete the setup.
 Android Client:
 
-Download the APK from the following link: APK Download.
+Download the APK from the following link: https://drive.google.com/file/d/1-Tab9GHhjOrlSvsn7Ab-t4RMLdPcuaTi/view?usp=drivesdk APK Download.
 Change the IP to liblrbs.script.so.
 You're all set!
